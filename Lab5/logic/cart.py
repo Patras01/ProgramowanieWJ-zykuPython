@@ -1,4 +1,4 @@
-from Lab5.models.product import Product
+from models.product import Product
 
 class Cart:
     def __init__(self):

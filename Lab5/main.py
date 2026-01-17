@@ -1,5 +1,5 @@
-from Lab5.models.product import Product
-from Lab5.logic.cart import Cart
+from models.product import Product
+from logic.cart import Cart
 p1 = Product("Laptop", 3500, "electronics")
 p2 = Product("Monitor", 1200, "electronics")
 p3 = Product("Jabłko", 2.5, "food")
