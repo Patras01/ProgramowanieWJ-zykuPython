@@ -1,0 +1,7 @@
+2023-10-27 10:15:01,234 - INFO - System initialized. Starting listener...
+2023-10-27 10:15:05,678 - INFO - Connection established from 192.168.1.15
+2023-10-27 10:15:12,001 - WARNING - Slow response detected: GET /api/v1/users (1200ms)
+2023-10-27 10:16:45,112 - ERROR - Database connection failed: Timeout reaching host db-prod-01
+2023-10-27 10:16:45,115 - CRITICAL - Application shutdown initiated due to database error
+2023-10-27 10:16:47,890 - DEBUG - Closing all active sockets...
+2023-10-27 10:16:48,002 - INFO - Process terminated with exit code 1.
