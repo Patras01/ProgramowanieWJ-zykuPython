@@ -1,3 +1,4 @@
+# Lab4
 class Board:
     def __init__(self, n=8):
         self.n = n
